@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.BattleRoundTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-12T14:38:55" hostname="steve-MS-7977" time="0.014">
+  <properties/>
+  <testcase name="addToPrimaryScore_increases_primary_score()" classname="org.example.BattleRoundTest" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
